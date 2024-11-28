@@ -1,0 +1,20 @@
+h1 {
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+body {
+    background-color: lightgray;
+    
+    
+}
+marquee {
+    color: blueviolet;
+}
+.paragraph {
+    justify-items: center;
+    background-color: lightblue;
+}
+.head {
+    color: red;
+}

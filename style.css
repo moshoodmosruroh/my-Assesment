@@ -1,0 +1,19 @@
+img {
+    width: 300px;
+    height: auto;
+}
+header {
+    background-color: chocolate;
+    text-decoration: none;
+    color: blue;
+    
+}
+ul {
+    justify-items: center;
+    list-style-type: none;
+    gap: 20px;
+    
+}
+:hover {
+    color: red;
+}
